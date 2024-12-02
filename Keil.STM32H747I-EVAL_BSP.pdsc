@@ -8,8 +8,8 @@
   <license>LICENSE</license>
   <licenseSets>
     <licenseSet id="all" default="true" gating="true">
-      <license title="Apache 2.0 for CMSIS add-ons"                     name="Licenses/LICENSE"    spdx="Apache-2.0"/>
-      <license title="BSD License for STMicroelectronics STM32H7xx HAL" name="Licenses/LICENSE.md" spdx="BSD-3-Clause"/>
+      <license title="Apache 2.0 for CMSIS add-ons"                     name="Licenses/LICENSE_Apache" spdx="Apache-2.0"/>
+      <license title="BSD License for STMicroelectronics STM32H7xx HAL" name="Licenses/LICENSE_BSD"    spdx="BSD-3-Clause"/>
     </licenseSet>
   </licenseSets>
 

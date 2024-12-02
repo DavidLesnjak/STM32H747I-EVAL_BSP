@@ -1,4 +1,4 @@
-SPDX-License-Identifier: Apache-2.0 AND BSD 3 Clause
+SPDX-License-Identifier: Apache-2.0 AND BSD-3-Clause
 
 =============================================================================
 
@@ -6,7 +6,7 @@ STM32H747I-EVAL_BSP software pack contains software components licensed
 under the following licenses:
 
 - CMSIS add-ons are licensed under Apache 2.0 license
-- STMicroelectronics STM32H7xx HAL is licensed under BSD 3 Clause license
+- STMicroelectronics STM32H7xx HAL is licensed under BSD-3-Clause license
 
 The full license text of applicable licenses is provided below.
 
