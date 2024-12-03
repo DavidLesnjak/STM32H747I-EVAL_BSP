@@ -11,7 +11,6 @@ under the following licenses:
 The full license text of applicable licenses is provided below.
 
 =============================================================================
-License Text for the CMSIS extensions:
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -215,8 +214,6 @@ License Text for the CMSIS extensions:
    limitations under the License.
 
 =============================================================================
-License text for the STMicroelectronics STM32H7xx HAL:
-
 Copyright 2021 STMicroelectronics.
 All rights reserved.
 
