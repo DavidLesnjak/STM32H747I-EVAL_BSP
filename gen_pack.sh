@@ -33,14 +33,15 @@ PACK_DIRS="
   Documents
   Examples
   Images
-  Licenses
 "
 
 # Specify file names to be added to pack base directory
 # Default: empty
 #
 PACK_BASE_FILES="
-  LICENSE
+  LICENSE_Apache-2.0
+  LICENSE_BSD-3-Clause
+  LICENSES
 "
 
 # Specify file names to be deleted from pack build directory
